@@ -1,6 +1,6 @@
 Hi! I'm Anyelo 👨‍💻
 
-🌍 ###Location: Venezuela  
+### 🌍 Location: Venezuela  
 🎓 Education: Systems Engineering Degree
 
 
